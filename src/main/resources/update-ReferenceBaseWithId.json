@@ -1,0 +1,17 @@
+{
+  "dateofIncorporation" : "08/08/2018",
+  "referenceDirectoryEntryReference" : "47654676",
+  "legalEntityReference" : "47654676",
+  "headquartersLocation" : "Headquarters Location",
+  "taxIdentifier" : "Tax Identifier",
+  "jurisdictionofIncorporation" : "Jurisdiction of Incorporation",
+  "partyDirectoryEntryReference" : "47654676",
+  "contactAddressDetails" : "Contact Address Details",
+  "sectorsofOperation" : "Sectors of Operation",
+  "primaryRegulator" : "Primary Regulator",
+  "registeredAddress" : "Address",
+  "registrationAuthority" : "Registration Authority",
+  "legalEntityOfficialName" : "Entity Official Name",
+  "legalEntityType" : "T2",
+  "contactRole" : "contact Role"
+}
